@@ -1,0 +1,80 @@
+body {
+  font-family: 'Noto Serif', serif;
+  font-size: 13px;
+}
+
+.container {
+    max-width: 660px;
+    margin: auto;
+}
+
+.content {
+  margin-top: 30px;
+}
+
+.txt-aling-center {
+  text-align: center;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-40 {
+  margin-top: 40px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.benefit-phone {
+  display: flex;;
+  align-items: center;
+  width: 23%;
+}
+
+.low_child {
+  margin-top: 40px;
+}
+
+
+
+ .inner-child {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.inner-child__item {
+  display: flex;
+  margin-left: 10px;
+  align-items: center;
+}
+
+.utube {
+  display: flex;
+  flex-direction: column;
+  width: 141px;
+}
+
+.nav-list {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-between;
+align-items: center;
+}
+
+
+li {
+  margin-left: 14px;
+}
+
+.catalogue {
+  position: relative;
+  top: 60px;
+  left: 20px;
+}
+
